@@ -1,0 +1,8 @@
+gradio
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-readers-file
+openai
+pypdf
+tiktoken
